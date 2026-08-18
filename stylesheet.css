@@ -1042,6 +1042,12 @@ footer a {
 ========================================================= */
 
 @media (max-width: 720px) {
+  .floating-tag {
+    display: none !important;
+  }
+}
+
+@media (max-width: 720px) {
 
   body {
     overflow-x: hidden;
